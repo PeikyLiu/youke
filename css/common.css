@@ -159,9 +159,7 @@
   cursor: pointer;
 }
 .contact-section .container .contact-btn:hover {
-  color: #fff;
   opacity: .8;
-  background: #394bcd;
   transition: all .5s ease;
 }
 .partner-section {

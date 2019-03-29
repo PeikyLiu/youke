@@ -159,9 +159,7 @@
   cursor: pointer;
 }
 .contact-section .container .contact-btn:hover {
-  color: #fff;
   opacity: .8;
-  background: #394bcd;
   transition: all .5s ease;
 }
 .partner-section {
@@ -451,7 +449,13 @@ html {
   text-decoration: none;
 }
 .page-mainer .cooperation-section .container .cooperation-list .cooperation-item .cooperation-item-btn:hover {
-  opacity: 0.8;
+  color: #fcbb4e;
+  background: #fff;
+  transition: all .5s ease;
+}
+.page-mainer .cooperation-section .container .cooperation-list .cooperation-item .order-btn:hover {
+  color: #6e81eb;
+  background: #fff;
   transition: all .5s ease;
 }
 .page-mainer .cooperation-section .container .cooperation-list .cooperation-item_buy {
