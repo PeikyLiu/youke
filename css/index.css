@@ -97,13 +97,13 @@
   font-size: 22px;
   line-height: 40px;
   color: #2e2f55;
-  font-weight: 300;
+  font-weight: 400;
 }
 .banner-section .container .banner-left .banner-description {
   font-size: 20px;
-  color: #9092aa;
+  color: #666;
   line-height: 34px;
-  font-weight: 300;
+  font-weight: 400;
   padding-top: 27px;
   width: 594px;
   height: 136px;
@@ -364,9 +364,9 @@ html {
 }
 .page-mainer .banner-section .container .banner-left .banner-description {
   font-size: 20px;
-  color: #9092aa;
+  color: #666;
   line-height: 34px;
-  font-weight: 300;
+  font-weight: 400;
   padding-top: 10px;
   width: 594px;
   height: 136px;
@@ -415,8 +415,10 @@ html {
 }
 .page-mainer .cooperation-section .container .cooperation-list .cooperation-item .cooperation-info-list {
   margin-bottom: 40px;
+  text-align: left;
 }
 .page-mainer .cooperation-section .container .cooperation-list .cooperation-item .cooperation-info-list .cooperation-info-item {
+  padding-left: 140px;
   line-height: 40px;
   font-size: 21px;
   color: #fff;
@@ -433,7 +435,7 @@ html {
   border-bottom: 3px solid #fff;
   transform: rotate(-45deg);
   left: 105px;
-  top: 11px;
+  top: 10px;
   border-radius: 1px;
 }
 .page-mainer .cooperation-section .container .cooperation-list .cooperation-item .cooperation-item-btn {
@@ -493,10 +495,11 @@ html {
   text-align: center;
 }
 .page-mainer .adv-section .container .adv-title {
-  font-size: 34px;
+  font-size: 36px;
   color: #2e2f55;
   line-height: 32px;
   margin-bottom: 30px;
+  font-weight: 500;
 }
 .page-mainer .adv-section .container .adv-description {
   font-size: 20px;
