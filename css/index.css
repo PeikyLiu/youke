@@ -9,7 +9,7 @@
   height: 100%;
 }
 .page-header .container .header-logo {
-  width: 900px;
+  width: 806px;
   text-align: left;
   height: 100%;
   margin-right: 20px;
@@ -495,11 +495,10 @@ html {
   text-align: center;
 }
 .page-mainer .adv-section .container .adv-title {
-  font-size: 36px;
+  font-size: 34px;
   color: #2e2f55;
   line-height: 32px;
   margin-bottom: 30px;
-  font-weight: 500;
 }
 .page-mainer .adv-section .container .adv-description {
   font-size: 20px;
@@ -533,4 +532,7 @@ html {
   font-size: 18px;
   color: #2e2f55;
   line-height: 34px;
+}
+.page-mainer .adv-section .container .adv-list .adv-item .adv-item-content .adv-item-description span {
+  font-weight: 600;
 }
