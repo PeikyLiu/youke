@@ -363,6 +363,7 @@ html {
   line-height: 32px;
   color: #2e2f55;
   position: relative;
+  cursor: pointer;
 }
 .page-mainer .catalog-section .catalog-second-list .catalog-second-item.catalog-second-item--active:after {
   position: absolute;
@@ -408,6 +409,7 @@ html {
   font-size: 15px;
   text-decoration: none;
   color: #2e2f55;
+  cursor: default;
 }
 .page-mainer .zhiye-section {
   padding-top: 58px;
@@ -439,7 +441,7 @@ html {
 .page-mainer .zhiye-section .container .zhiye-list .zhiye-item {
   width: 265px;
   height: 325px;
-  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.2);
   padding: 0 25px;
   margin-bottom: 45px;
   transition: all .5s ease;
@@ -536,7 +538,7 @@ html {
 .page-mainer .hot-section .container .hot-list .hot-item {
   width: 265px;
   height: 300px;
-  box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.2);
   transition: all .5s ease;
 }
 .page-mainer .hot-section .container .hot-list .hot-item:hover {
