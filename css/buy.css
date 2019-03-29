@@ -542,7 +542,7 @@ html {
   transition: all .5s ease;
 }
 .page-mainer .hot-section .container .hot-list .hot-item:hover {
-  box-shadow: 2px 15px 20px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 2px 2px 20px 0px rgba(0, 0, 0, 0.3);
   transition: all .5s ease;
 }
 .page-mainer .hot-section .container .hot-list .hot-item .hot-item-photo {
